@@ -1,0 +1,16 @@
+the sequence of variables:
+1. user - Age
+2. user - Gender
+3. user - Country
+4. user - Attitude
+5. user - Knowledge
+6. user - Behavior
+7. design1 - Clarity 
+8. design1 - Emotion
+9. design2 - Clarity 
+10. design2 - Emotion
+11. design3 - Clarity 
+12. design3 - Emotion
+13. design4 - Clarity 
+14. design4 - Emotion
+15. Choices: 1,2,3,4
